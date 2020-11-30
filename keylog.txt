@@ -1,0 +1,4 @@
+1234567890[Key.shift][Key.up] [Key.cmd]note
+ffggfghfhfgdfggdfg
+kjkhjkhjkhj
+kgkj
